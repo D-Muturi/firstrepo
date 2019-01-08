@@ -1,0 +1,3 @@
+dotnet stars:>1000 //finds all dot net projects with more than 1000 star rating
+dotnet stars:10..50 //finds all dot net projects between 10 and 50 star rating
+dotnet NOT "hello world" //finds all dot net projects filtering out into ones with "hello world"
