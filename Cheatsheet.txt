@@ -3,3 +3,5 @@ dotnet stars:10..50 //finds all dot net projects between 10 and 50 star rating
 dotnet NOT "hello world" //finds all dot net projects filtering out into ones with "hello world"
 
 Markdown resource: https://daringfireball.net/projects/markdown/syntax
+
+Github is the 'remote' repository, which is the central place where the code is stored. Also referred to as Upstream
